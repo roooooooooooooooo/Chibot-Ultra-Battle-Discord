@@ -6,8 +6,6 @@ from discord.ext import commands
 @commands.group()
 async def chub(ctx):
 
-    # progTag = progtag.GetProgtag(settings.tagcount)
-
     level1 = 953472104131608606
     power = ctx.author.get_role(level1)
 
