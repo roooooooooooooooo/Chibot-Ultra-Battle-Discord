@@ -20,8 +20,8 @@ async def chub(ctx):
 
     # run it:
     try:
+        await ctx.send("*(Loading...)*")
         result = subprocess.Popen([settings.CHUB_EXE_FILE],shell=True, cwd=settings.GAME_PATH)
-            # subprocess.Popen(r'c:\mytool\tool.exe', cwd=r'd:\test\local')
     except:
         print("error running chub exe file?")
     #     print(settings.CHUB_EXE_FILE)

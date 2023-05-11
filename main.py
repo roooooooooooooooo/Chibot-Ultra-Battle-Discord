@@ -7,7 +7,7 @@ def run():
     intents = discord.Intents.all() #discord.Intents.default()
     intents.message_content = True
 
-    bot = commands.Bot(command_prefix="~", help_command=None, intents=intents, activity=discord.Game("Virtua Space"))
+    bot = commands.Bot(command_prefix="~", help_command=None, intents=intents, activity=discord.Game("CHuB: Virtua Space"))
 
 
     @bot.event
