@@ -1,8 +1,0 @@
-FITEMED.FRM
-C:\WINDOWS\SYSTEM\CMDIALOG.VBX
-ITEM1.BAS
-ProjWinSize=31,524,242,137
-ProjWinShow=2
-IconForm="fItemEd"
-Title="ItemEdit"
-ExeName="ITEMEDIT.EXE"
