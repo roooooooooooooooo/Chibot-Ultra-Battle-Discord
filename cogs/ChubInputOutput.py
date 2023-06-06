@@ -23,11 +23,7 @@ class Chibot(commands.Cog):
         # first setup:
         ctx: commands.Context = await self.bot.get_context(msg)
 
-        # check we're in Labyrinth channel and not a bot:
         if not msg.author.bot:
-            #print(f"{msg.author}:  {msg.content}")
-            #self.ChubInput(msg)
-
 
             # ====
             # user id method:
@@ -50,8 +46,15 @@ class Chibot(commands.Cog):
         self.msg_queue.append(display)
 
 
-    @tasks.loop(seconds=0.1)  # originally 1
+    @tasks.loop(seconds=0.1)
     async def post_msg(self):
+        """
+        This queue is used because the Discord messages, when sent in quick succession,
+        are sometimes sent out of order for some inexplicable reason, even though input is
+        processed in the correct order. This is something related to discord.py bots and isn't
+        unique to chub.
+        The delay value of 0.1 seconds is arbitrary.
+        """
 
         self.ChubOutput()
 
@@ -73,7 +76,7 @@ class Chibot(commands.Cog):
             with open(settings.GAME_OUTPUT, "r") as f:
                 outputCache = f.read()
         except:
-                print("file read error #1")
+                #print("file read error #1")
                 return
 
         # Roo's particular formatting:

@@ -6,8 +6,8 @@ from discord.ext import commands
 @commands.group()
 async def chub(ctx):
 
-    level1 = 953472104131608606
-    power = ctx.author.get_role(level1)
+    chub_host_role = 953472104131608606
+    power = ctx.author.get_role(chub_host_role)
 
     if power == None:  # not qualified
         return

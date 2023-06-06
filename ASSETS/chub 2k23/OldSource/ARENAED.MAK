@@ -1,8 +1,0 @@
-FAREDIT.FRM
-C:\WINDOWS\SYSTEM\CMDIALOG.VBX
-ARENA1.BAS
-ProjWinSize=15,549,238,126
-ProjWinShow=2
-IconForm="fArenaEd"
-Title="ArenaEd"
-ExeName="ARENAED.EXE"
