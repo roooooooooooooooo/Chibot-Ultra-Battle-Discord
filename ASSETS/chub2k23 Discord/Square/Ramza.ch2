@@ -1,0 +1,564 @@
+"Ramza Beoulve"
+"Ramza"
+0
+"Ramza"
+"%SN becomes Ramza Beoulve."
+"%SN joins in as Ramza Beoulve."
+55
+55
+55
+55
+""
+"%SN listens to rumors at the bar."
+"%SN used Defend!"
+"%SN's defense failed!"
+"%SN says, ''If you want historical 'truth' then you'll need me!''"
+"%SN says, ''I'm a Beoulve. Nothing happens without me!''"
+""
+""
+""
+"impaler"
+"%SN holds up his sword and charges at %T."
+"%SN impales %T on his sword. Fatality!"
+"Sword Attack"
+"att"
+1
+"%SN moves toward %T."
+"%SN charges toward %T!"
+""
+"%SN slashes %T with his sword."
+"%SN delivers an array of %S2 sword strikes to %T!"
+0
+""
+"%SN slashes %T with his sword, causing %T to fall down!"
+""
+"%SN attacks %T with his sword... But it missed!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN attacks %T with his sword... But it missed!"
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+120
+2
+"Accumulate"
+"accum"
+0
+"%SN kneels down and builds his power."
+""
+"%SN kneels down and builds his power."
+"%SN stands up and feels stronger!"
+""
+0
+"%SN stands up and feels stronger!"
+""
+""
+"The move failed to click!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+8
+"Yell"
+"yell"
+0
+"%SN boosts %T's confidence by yelling."
+""
+"%SN boosts his confidence by yelling."
+"%T's speed increases due to %SN's yelling!"
+""
+0
+"%SN's speed increases due to his yelling!"
+""
+""
+"The move failed to click!"
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+80
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+"Cheer Up"
+"cheer"
+0
+"%SN boosts %T's bravery."
+""
+"%SN boosts his own bravery."
+"%T feels more confident!"
+""
+0
+"%SN feels more confident!"
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+3
+"Scream"
+"scream"
+0
+"%SN boosts his power by screaming."
+""
+"%SN boosts his power by screaming."
+"%SN receives a big boost!"
+""
+0
+"%SN receives a big boost!"
+""
+""
+"The move failed!"
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+100
+0
+0
+0
+0
+0
+0
+8
+"Wave Fist"
+"wave"
+0
+"%SN emits battle spirits toward %T!"
+"%SN says, ''Burning anger rising! Burst! Wave Fist!''"
+""
+"%SN hits %T with a Wave Fist."
+"%SN SMASHES %T with his Wave Fist!"
+0
+""
+""
+""
+"%SN attacks with Wave Fist. However, %T dodged the attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%SN attacks with Wave Fist. However, %T dodged the attack."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+2
+"Repeating Fist"
+"repeat"
+0
+"%SN moves toward %T."
+""
+""
+"%SN hits %T several times with Repeating Fist!"
+""
+0
+""
+""
+""
+"%SN attacks with Repeating Fist, but %T dodged!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+150
+2
+"Earth Slash"
+"earth"
+0
+"%SN says, ''Earth's anger running through my arms! Earth Slash!''"
+""
+"%SN hits the ground, causing an earthquake!"
+""
+""
+0
+"%SN's Earth Slash is done."
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+27
+80
+5
+"Stigma Magic"
+"stigma"
+0
+"%SN concentrates on removing evil spirits!"
+""
+"%SN uses Stigma Magic, recovering the status of his team."
+""
+""
+0
+""
+""
+""
+""
+-1
+-1
+-1
+-1
+-1
+-1
+0
+0
+0
+0
+""
+-1
+-1
+0
+0
+-1
+-1
+-1
+0
+-1
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+1
+"Chakra"
+"Chakra"
+0
+"%SN uses the powerful Chakra healing skill!"
+""
+"%SN uses the powerful Chakra healing skill!"
+"%SN heals his allies!"
+""
+0
+"%SN heals his allies!"
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+230
+1
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Branded a 'heretic' by the Church of Glabados."
+"Seeks to uncover the historical 'truth' behind the Zodiac Brave story."
+""
+""

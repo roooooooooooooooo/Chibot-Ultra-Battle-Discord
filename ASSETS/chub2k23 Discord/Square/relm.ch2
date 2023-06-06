@@ -1,0 +1,564 @@
+"Relm Arrowny"
+"relm"
+0
+"relm"
+"%SN grabs a paintbrush and becomes the young artist Relm!"
+"%SN joins in as Relm the painter."
+35
+35
+80
+70
+"%T kicks Interceptor away."
+"%SN stops by a friend's house."
+"Interceptor gets in front of %SN and growls!"
+"Interceptor scares %T away!"
+"%SN asks, ''Can I paint your portrait?''"
+"%SN whines, ''What a fuddy duddy...''"
+"%SN shouts, ''Stop picking on me! I'll paint your portrait!''"
+""
+""
+"anvil"
+"%SN sketches an anvil."
+"The anvil sketched by %SN falls on %T, squashing them flat!"
+"Brush Attack"
+"brush"
+1
+"%SN pulls out a paintbrush."
+"%SN pulls out a set of paintbrushes!"
+""
+"%SN whacks %T with the paintbrush!"
+"%SN dumps the paintbrushes onto %T!"
+0
+""
+"%SN throws the paintbrush at %T!"
+""
+"%T shoves %SN away."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+"%T shoves %SN away."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+140
+2
+"Fire"
+"fire"
+1
+"%SN starts casting Fire on %T."
+"%SN starts casting Fire 3 on %T!"
+""
+"%SN casts Fire and %T is burned!"
+"%SN casts Fire 3. %T is bombarded in an inferno of flame!"
+0
+""
+""
+""
+"%SN casts Fire, but %T blocked it."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+24
+140
+2
+"Bolt"
+"Bolt"
+1
+"%SN starts casting Bolt on %T."
+"%SN starts casting Bolt 3 on %T!"
+""
+"%SN casts Bolt and %T is shocked!"
+"%SN casts Bolt 3. A massive thunderbolt electrocutes %T!"
+0
+""
+""
+""
+"%SN casts Bolt, but %T blocked it."
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+140
+2
+"Ice"
+"Ice"
+1
+"%SN starts casting Ice on %T."
+"%SN starts casting Ice 3 on %T!"
+""
+"%SN casts Ice and %T is chilled!"
+"%SN casts Ice 3. A massive block of ice falls on %T!"
+0
+""
+""
+""
+"%SN casts Ice, but %T blocked it."
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+140
+2
+"Quick"
+"Quick"
+0
+"%SN starts casting Quick on %T."
+""
+""
+"%SN casts Quick, causing %T's speed to raise dramatically!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+"Mute"
+"Mute"
+0
+"%SN starts to cast Mute on %T."
+""
+""
+"%SN casts Mute, causing %T to lose their voice!"
+""
+0
+""
+""
+""
+"%SN casts Mute, but %T blocked it."
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Wall"
+"Wall"
+0
+"%SN starts to cast Wall on %T."
+""
+""
+"%SN casts Wall and a barrier forms in front of %T!"
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+100
+0
+0
+0
+0
+0
+0
+0
+0
+3
+"Sketch"
+"Sketch"
+0
+"%SN studies %T, then starts to paint %T's portrait."
+""
+""
+"%T's portrait comes to life and fights for %SN!"
+""
+0
+""
+""
+""
+"%SN screws up the portrait of %T, and it explodes!"
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+253
+0
+3
+"Control"
+"Control"
+0
+"%SN puts on a FakeMustache and tries to control %T."
+""
+""
+"%SN failed on control %T, but %T goes crazy!"
+""
+0
+""
+""
+""
+"%T's mind is too strong for %SN to control."
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+"Starlet"
+"starlet"
+0
+"%SN uses Magicite and summons the Esper, Starlet."
+""
+"%SN uses Magicite and summons the Esper, Starlet."
+"Starlet appears, and uses a Group Hug to cure %SN's allies!"
+""
+0
+"Starlet appears, and uses a Group Hug to cure %SN's allies!"
+""
+""
+"But Starlet won't come!"
+-1
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+-1
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+240
+1
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+0
+""
+""
+""
+""
+""
+0
+""
+""
+""
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"In her pictures she captures everything: forests, water,"
+"light... the very essence of life..."
+""
+""
