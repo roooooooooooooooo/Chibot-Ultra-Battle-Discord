@@ -28,7 +28,7 @@ I added a bunch of formatting tweaks to the game's ascii tags, a few strings whe
 
 I also added a feature in the options, enabled by default, to get a random arena choice on each match.
 
-Use (~commands) to see host commands; all host commands are issued with a tilde (~), while game commands are controlled with a period (.)
+Use (~commands) to see host commands; all host commands are issued with a tilde (\~), while game commands are controlled with a period (.)
 
 
 
