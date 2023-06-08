@@ -9,8 +9,8 @@
 .idea/**/shelf
 
 .env
-.ASSETS/chub 2k23/input.txt
-.ASSETS/chub 2k23/game.txt
+.ASSETS/chub2k23 Discord/input.txt
+.ASSETS/chub2k23 Discord/game.txt
 
 # AWS User-specific
 .idea/**/aws.xml
